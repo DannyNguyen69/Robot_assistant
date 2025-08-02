@@ -1,0 +1,5 @@
+gTTS>=2.0
+playsound==1.2.2
+PyGObject
+requests>=2.20
+readline; sys_platform != "win32"

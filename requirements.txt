@@ -1,5 +1,13 @@
+datasets
+transformers
+torch
+accelerate
+peft
+trl
+sentencepiece
+protobuf
+huggingface_hub
 gTTS>=2.0
-playsound==1.2.2
-PyGObject
 requests>=2.20
-readline; sys_platform != "win32"
+unsloth
+unsloth_zoo

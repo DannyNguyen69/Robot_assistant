@@ -87,7 +87,7 @@ class QwenInteractiveChat:
         """
         Bắt đầu vòng lặp chat tương tác.
         """
-        print("🎤 Chatbot Qwen với Giọng nói đã sẵn sàng.")
+        print(" Chatbot Qwen với Giọng nói đã sẵn sàng.")
         print("   (Gõ 'quit' hoặc 'exit' để thoát)")
         print("=" * 50)
         
